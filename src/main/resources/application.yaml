@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: order-processing-service
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
